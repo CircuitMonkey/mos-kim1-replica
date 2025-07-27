@@ -481,7 +481,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "CM_CHIPz_Modules",
+      "CM_Chip_Packages",
+      "CM_Connector_Castelated",
+      "CM_Display_Character",
+      "CM_Switch"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -547,7 +553,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sram-32kx8-module.step",
       "svg": "",
       "vrml": ""
     },
