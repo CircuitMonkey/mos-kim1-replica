@@ -296,7 +296,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm* SSOP?14* TSSOP?14*")
-		(path "/8f06bee7-8cf7-4446-a667-1082636b0ca0")
+		(path "/c6de9842-ac6c-4777-85a6-c95be7ae9af3")
 		(sheetname "/")
 		(sheetfile "control-logic-module.kicad_sch")
 		(attr smd)
@@ -7671,7 +7671,7 @@
 			(roundrect_rratio 0.25)
 			(net 19 "unconnected-(U4-CONT1-Pad3)")
 			(pinfunction "CONT1")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "7cfa5f7b-48e3-4790-8da8-eaf1f78f2230")
 		)
 		(pad "4" smd roundrect
@@ -7751,7 +7751,7 @@
 			(roundrect_rratio 0.25)
 			(net 20 "unconnected-(U4-CONT2-Pad11)")
 			(pinfunction "CONT2")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "9d955b14-9039-41f2-aad0-92c09df85bf9")
 		)
 		(pad "12" smd roundrect
