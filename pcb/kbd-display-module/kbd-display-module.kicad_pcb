@@ -497,7 +497,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://docs.broadcom.com/doc/HDSM-281x-283x-0-28-in-Single-Digit-SMT-LED-Display-DS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -510,7 +510,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED Segment Display, SMD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6494,7 +6494,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://docs.broadcom.com/doc/HDSM-281x-283x-0-28-in-Single-Digit-SMT-LED-Display-DS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6507,7 +6507,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED Segment Display, SMD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8358,7 +8358,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://docs.broadcom.com/doc/HDSM-281x-283x-0-28-in-Single-Digit-SMT-LED-Display-DS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8371,7 +8371,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED Segment Display, SMD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13419,7 +13419,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://docs.broadcom.com/doc/HDSM-281x-283x-0-28-in-Single-Digit-SMT-LED-Display-DS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13432,7 +13432,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED Segment Display, SMD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15308,7 +15308,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://docs.broadcom.com/doc/HDSM-281x-283x-0-28-in-Single-Digit-SMT-LED-Display-DS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15321,7 +15321,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED Segment Display, SMD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15991,7 +15991,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://docs.broadcom.com/doc/HDSM-281x-283x-0-28-in-Single-Digit-SMT-LED-Display-DS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16004,7 +16004,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED Segment Display, SMD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
