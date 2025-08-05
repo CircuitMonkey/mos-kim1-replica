@@ -10017,6 +10017,46 @@
 		)
 		(uuid "8428f366-69e5-4f05-8906-b62c369b1f19")
 	)
+	(label "A"
+		(at 31.75 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d99e4ae-5bb5-41d4-93e9-b3379acaf0e9")
+	)
+	(label "C"
+		(at 31.75 19.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "be8560fa-9df7-4604-b08d-d657fbb27015")
+	)
+	(label "B"
+		(at 31.75 21.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ce91a105-086d-4d5d-bb10-cff5f3898386")
+	)
+	(label "D"
+		(at 31.75 16.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dacb51d4-4e79-4750-bdcf-a021061be42c")
+	)
 	(label "ROW2"
 		(at 43.18 167.64 0)
 		(effects
