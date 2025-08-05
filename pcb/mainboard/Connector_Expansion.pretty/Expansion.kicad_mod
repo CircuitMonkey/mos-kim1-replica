@@ -2185,4 +2185,15 @@
 		(uuid "ccbe5945-17f6-49b7-93b4-05fe93ba8055")
 	)
 	(embedded_fonts no)
+	(model "${CUSTOM_3DMODEL_DIR}/Connector-Header.3dshapes/Header-Female-2.54mm-2x22-SMT.step"
+		(offset
+			(xyz 0 -3.81 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
