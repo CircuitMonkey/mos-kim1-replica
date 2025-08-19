@@ -6180,6 +6180,16 @@
 		)
 		(uuid "3a70be7c-998a-4857-88e0-24860e4b4e69")
 	)
+	(text "Replace with\nAlt PKG. \n74LVC1G06Z-7\nis expensive."
+		(exclude_from_sim no)
+		(at 67.818 126.746 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3c38d807-68fc-4168-9bc6-2efb13db319a")
+	)
 	(text "RS"
 		(exclude_from_sim no)
 		(at 196.8098 69.7558 0)
@@ -10415,7 +10425,7 @@
 				)
 			)
 		)
-		(property "Value" "Tayda-A3959"
+		(property "Value" "BTN_3"
 			(at 111.76 144.78 0)
 			(do_not_autoplace yes)
 			(effects
@@ -13485,7 +13495,7 @@
 				)
 			)
 		)
-		(property "Value" "BTN_3"
+		(property "Value" "BTN_2"
 			(at 99.06 144.78 0)
 			(do_not_autoplace yes)
 			(effects
@@ -17813,7 +17823,7 @@
 				)
 			)
 		)
-		(property "Value" "BTN_7"
+		(property "Value" "BTN_6"
 			(at 152.4 144.78 0)
 			(do_not_autoplace yes)
 			(effects
