@@ -9177,6 +9177,19 @@
 				)
 			)
 		)
+		(property "MPN" "74LVC1G06Z-7"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "866a6131-61de-41cb-aa29-d16cb16251db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT* SG-*")
 		(path "/930508e7-2104-4dbf-87a9-d546a02c1d5d")
 		(sheetname "/")
