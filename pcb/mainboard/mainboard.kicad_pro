@@ -565,7 +565,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "CM_Connector_Edge"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
