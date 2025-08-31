@@ -6078,6 +6078,16 @@
 		)
 		(uuid "04c43194-47ca-4dc1-880b-4117040a9534")
 	)
+	(text "SW Pads are a little long for Tayda SW. Reduce length."
+		(exclude_from_sim no)
+		(at 189.484 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "056f1db3-77f9-483c-83fd-404e06d630b6")
+	)
 	(text "4"
 		(exclude_from_sim no)
 		(at 124.46 148.59 0)
@@ -6449,6 +6459,16 @@
 			)
 		)
 		(uuid "e8c41417-f135-4ae6-ac39-f8b8003259ef")
+	)
+	(text "KiCAD's SOT-23 footfrint needs to go!!!"
+		(exclude_from_sim no)
+		(at 173.482 88.138 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e93f29aa-1c01-48f8-9bb7-e8524d134d51")
 	)
 	(text "8"
 		(exclude_from_sim no)

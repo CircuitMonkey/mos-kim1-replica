@@ -3944,6 +3944,16 @@
 		)
 		(uuid "b78c142a-8162-44ca-a34a-2fe985e071cc")
 	)
+	(text "<====  Change U5 to SO-Wide"
+		(exclude_from_sim no)
+		(at 226.06 100.584 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cd7881eb-e98b-44b9-a963-353fae2026a1")
+	)
 	(text "RS sig from 6530-002"
 		(exclude_from_sim no)
 		(at 159.258 138.938 0)
