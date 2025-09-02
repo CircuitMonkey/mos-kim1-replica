@@ -3105,6 +3105,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Switch ~{R}/W with alt."
+		(exclude_from_sim no)
+		(at 39.116 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3f81cea0-2584-4262-bbf1-81630743bb9d")
+	)
 	(text "SRAM is all of lower 32K address space,\nexcept 0x1400 to 0x1FFF ( K5, K6, K7 ) \nfor KIM-1 ROM and I/O."
 		(exclude_from_sim no)
 		(at 123.444 40.386 0)
