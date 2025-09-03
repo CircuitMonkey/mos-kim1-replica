@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "4ebd6183-7c5f-46b0-b04d-0ff005f0292d")
 	(paper "A4")
+	(title_block
+		(title "KIM-1000 Control Module")
+		(date "2025-09-02")
+		(rev "B")
+		(company "by Circuit Monkey")
+	)
 	(lib_symbols
 		(symbol "CM_74xGxx_Symbols:74AHC1G00"
 			(exclude_from_sim no)
@@ -3921,6 +3927,16 @@
 			)
 		)
 		(uuid "38e07447-3df3-4873-ae1b-511e4d5535e5")
+	)
+	(text "Open Standby pin for normal operation."
+		(exclude_from_sim no)
+		(at 127.762 81.026 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4ea9a8f1-d3fa-4fa0-994a-63d001267e61")
 	)
 	(text "Slide SW to ~{NMI} \nat keypad \nenables SST"
 		(exclude_from_sim no)
