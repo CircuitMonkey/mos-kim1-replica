@@ -5,8 +5,9 @@
 	(uuid "0be377b8-2429-4772-bed2-0e09a0b717e3")
 	(paper "A4")
 	(title_block
-		(title "SRAM Module, 32Kx8, for KIM-1")
-		(rev "A")
+		(title "SRAM Module, 32Kx8, for KIM-1000")
+		(date "2025-09-03")
+		(rev "B")
 		(company "Circuit Monkey")
 	)
 	(lib_symbols
@@ -3105,7 +3106,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Switch ~{R}/W with alt."
+	(text "Change OE to R/W direct.\n- Remove U2\n- Bridge U2.1 to U2.4\n"
 		(exclude_from_sim no)
 		(at 39.116 76.2 0)
 		(effects
