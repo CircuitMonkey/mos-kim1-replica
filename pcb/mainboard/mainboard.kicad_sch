@@ -5,9 +5,10 @@
 	(uuid "e0e512af-87e5-458d-8755-57169e2a6c8f")
 	(paper "A3")
 	(title_block
-		(title "KIM-1 Modular Replica")
+		(title "KIM-1000 Modular Replica of KIM-1")
+		(date "2025-09-09")
 		(rev "A")
-		(company "Circuit Monkey")
+		(company "by Circuit Monkey")
 	)
 	(lib_symbols
 		(symbol "74LV540_1"
