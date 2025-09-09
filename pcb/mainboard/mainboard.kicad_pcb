@@ -87,10 +87,10 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
-			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(usegerberadvancedattributes no)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 4)
@@ -118,9 +118,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber/")
 		)
 	)
 	(net 0 "")
@@ -11697,7 +11697,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "cb4f3c43-4c2c-4c3a-a943-c717a3ecdaa7")
+			(uuid "2b80ac4d-b5c2-4f87-9762-0696fb1aff2c")
 		)
 		(fp_line
 			(start 12 7.1)
@@ -11707,7 +11707,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "89e49fb9-977c-4082-a5eb-d31789993552")
+			(uuid "18071f54-a260-4531-9034-b9575332929a")
 		)
 		(fp_line
 			(start 12 -10)
@@ -11717,7 +11717,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "7802de80-5e6f-4983-b532-4e0d0a242a1c")
+			(uuid "ee2bb70a-6e5a-435a-9cdc-949328b54e07")
 		)
 		(fp_line
 			(start 10 -12)
@@ -11727,7 +11727,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "9d96dc60-c587-4fc1-9ee9-63413adf667c")
+			(uuid "633011dd-9fd5-45c4-a738-510231ef0376")
 		)
 		(fp_line
 			(start 10 -19.9)
@@ -11737,7 +11737,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "7a619461-6ffe-40cf-9070-1f2d8d0a8e94")
+			(uuid "86f5bbfe-a86f-4448-8566-85b074e26474")
 		)
 		(fp_line
 			(start 10 -24)
@@ -11747,7 +11747,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "c8e0044c-be7f-46b3-83a6-1c70dada1659")
+			(uuid "ea5fb8bb-3eff-4768-a752-e9c4d357245a")
 		)
 		(fp_line
 			(start 9 13)
@@ -11757,7 +11757,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "27267fdd-aea8-454a-85f5-1a0e90b9e1ff")
+			(uuid "3708d28f-9bfb-4901-8698-e5a57d5f2798")
 		)
 		(fp_line
 			(start 5 -29)
@@ -11767,7 +11767,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "112cd8fe-b28b-4f5e-a040-3ff379105267")
+			(uuid "5b03a01f-48c1-4431-ba74-e1a0eba36573")
 		)
 		(fp_line
 			(start -7 -29)
@@ -11777,7 +11777,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "0381dcc5-a352-423e-b379-7cf04cda4c3d")
+			(uuid "32da638e-cbdf-4448-aad4-f4b806ea134d")
 		)
 		(fp_line
 			(start -8.1 13)
@@ -11787,7 +11787,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "0b5559ab-a2d9-4fcb-9670-7cea8829dc30")
+			(uuid "fc95148b-b413-4668-93a4-b7f518706a57")
 		)
 		(fp_line
 			(start -8.1 -27.9)
@@ -11797,7 +11797,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "100a006a-99ff-4b0a-91a9-5619e31e90de")
+			(uuid "ed408106-97b2-4078-ba4d-4bb6c266c1d7")
 		)
 		(fp_line
 			(start -10 13)
@@ -11807,7 +11807,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "8a588a15-b7d6-470b-a163-b29657ca4fab")
+			(uuid "7237fe35-0ae8-4f20-9e13-e93a5b8285ed")
 		)
 		(fp_line
 			(start -12 11)
@@ -11817,7 +11817,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "67b4426d-984b-48cc-be84-c4f34cd8e401")
+			(uuid "f1105254-02f7-4985-86fd-6cfb7dc4e0cd")
 		)
 		(fp_line
 			(start -12 -22.1)
@@ -11827,7 +11827,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "c6ea227c-3c23-42a8-90f8-a923f1750e53")
+			(uuid "3c103106-eef6-44e7-83ec-caa9984ec443")
 		)
 		(fp_line
 			(start -12 -24)
@@ -11837,7 +11837,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "8f9d76c0-eb19-4959-8854-2fed9a606a39")
+			(uuid "a8f82908-e877-4636-8e38-e2beb9d60bda")
 		)
 		(fp_poly
 			(pts
@@ -11850,7 +11850,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "4c00fec0-eeda-4fa0-bd9e-808c346017da")
+			(uuid "861791b5-2290-4d1e-b34e-65e7bbd0cc28")
 		)
 		(fp_text user "SRAM"
 			(at 0 -5 270)
@@ -11895,7 +11895,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 19 "A15")
 			(pinfunction "A15")
@@ -11909,7 +11909,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 13 "A14")
 			(pinfunction "A14")
@@ -11923,7 +11923,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 20 "A13")
 			(pinfunction "A13")
@@ -11937,7 +11937,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 2 "A12")
 			(pinfunction "A12")
@@ -11951,7 +11951,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 15 "A11")
 			(pinfunction "A11")
@@ -11965,7 +11965,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 3 "A10")
 			(pinfunction "A10")
@@ -11979,7 +11979,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 17 "A9")
 			(pinfunction "A9")
@@ -11993,7 +11993,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 30 "A8")
 			(pinfunction "A8")
@@ -12007,7 +12007,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 23 "A7")
 			(pinfunction "A7")
@@ -12021,7 +12021,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 33 "A6")
 			(pinfunction "A6")
@@ -12035,7 +12035,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 41 "A5")
 			(pinfunction "A5")
@@ -12049,7 +12049,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 11 "A4")
 			(pinfunction "A4")
@@ -12063,7 +12063,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 37 "A3")
 			(pinfunction "A3")
@@ -12077,7 +12077,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 34 "A2")
 			(pinfunction "A2")
@@ -12091,7 +12091,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 44 "A1")
 			(pinfunction "A1")
@@ -12105,7 +12105,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 24 "A0")
 			(pinfunction "A0")
@@ -12119,7 +12119,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 82 "K7")
 			(pinfunction "K7")
@@ -12133,7 +12133,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 26 "K6")
 			(pinfunction "K6")
@@ -12147,7 +12147,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 60 "K5")
 			(pinfunction "K5")
@@ -12161,7 +12161,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 66 "K4")
 			(pinfunction "K4")
@@ -12175,7 +12175,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 49 "K3")
 			(pinfunction "K3")
@@ -12189,7 +12189,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 76 "K2")
 			(pinfunction "K2")
@@ -12203,7 +12203,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 45 "K1")
 			(pinfunction "K1")
@@ -12217,7 +12217,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 86 "K0")
 			(pinfunction "K0")
@@ -12231,7 +12231,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 9 "D0")
 			(pinfunction "D0")
@@ -12245,7 +12245,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 22 "D1")
 			(pinfunction "D1")
@@ -12259,7 +12259,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 5 "D2")
 			(pinfunction "D2")
@@ -12273,7 +12273,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 18 "D3")
 			(pinfunction "D3")
@@ -12287,7 +12287,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 28 "D4")
 			(pinfunction "D4")
@@ -12301,7 +12301,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 40 "D5")
 			(pinfunction "D5")
@@ -12315,7 +12315,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 25 "D6")
 			(pinfunction "D6")
@@ -12329,7 +12329,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 16 "D7")
 			(pinfunction "D7")
@@ -12343,7 +12343,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 12 "RAM-R{slash}~{W}")
 			(pinfunction "RAM_R/~{W}")
@@ -12357,7 +12357,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 4 "R{slash}~{W}")
 			(pinfunction "R/~{W}")
@@ -12371,7 +12371,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 7 "~{R}{slash}W")
 			(pinfunction "~{R}/W")
@@ -12385,7 +12385,7 @@
 			(drill
 				(offset -0.3 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 39 "Φ2")
 			(pinfunction "Φ2")
@@ -12398,7 +12398,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 31 "VCC")
 			(pinfunction "Vcc")
@@ -12412,7 +12412,7 @@
 			(drill
 				(offset 0.4 0)
 			)
-			(layers "F.Cu" "F.Mask")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.2083333333)
 			(net 43 "GND")
 			(pinfunction "GND")
