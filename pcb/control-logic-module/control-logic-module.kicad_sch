@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "KIM-1000 Control Module")
-		(date "2025-09-02")
+		(date "2025-09-21")
 		(rev "B")
 		(company "by Circuit Monkey")
 	)
@@ -7509,7 +7509,7 @@
 		(dnp no)
 		(uuid "5ec63225-c13f-4a64-858d-9642567b0883")
 		(property "Reference" "U1"
-			(at 133.858 123.19 90)
+			(at 127.762 121.666 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -10275,7 +10275,7 @@
 		(dnp no)
 		(uuid "b1a6d367-6638-419c-8f9b-f077d3d65aee")
 		(property "Reference" "U1"
-			(at 114.808 135.89 90)
+			(at 108.966 134.366 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -10451,7 +10451,7 @@
 		(dnp no)
 		(uuid "b52fe2e0-c2d8-47b0-9d79-4453aa42d5a7")
 		(property "Reference" "U1"
-			(at 137.922 110.49 90)
+			(at 135.636 112.522 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -10463,7 +10463,7 @@
 			)
 		)
 		(property "Value" "74HC04"
-			(at 141.986 109.22 0)
+			(at 136.652 108.458 0)
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -11022,16 +11022,18 @@
 		(dnp no)
 		(uuid "c6de9842-ac6c-4777-85a6-c95be7ae9af3")
 		(property "Reference" "U1"
-			(at 115.57 122.428 0)
+			(at 108.966 121.666 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "74HC04"
-			(at 111.252 123.952 0)
+			(at 110.49 121.412 0)
 			(effects
 				(font
 					(size 0.8 0.8)
