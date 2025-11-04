@@ -26830,7 +26830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS540"
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS541"
 			(at 300.99 215.9 90)
 			(effects
 				(font
@@ -26848,7 +26848,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN74LV540ARGY"
+		(property "MPN" "SN74LV541ARKSR"
 			(at 297.18 217.17 0)
 			(effects
 				(font
