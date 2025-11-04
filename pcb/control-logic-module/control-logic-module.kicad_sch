@@ -7,7 +7,7 @@
 	(title_block
 		(title "KIM-1000 Control Module")
 		(date "2025-09-21")
-		(rev "B")
+		(rev "C")
 		(company "by Circuit Monkey")
 	)
 	(lib_symbols
@@ -3928,16 +3928,6 @@
 		)
 		(uuid "38e07447-3df3-4873-ae1b-511e4d5535e5")
 	)
-	(text "Open Standby pin for normal operation."
-		(exclude_from_sim no)
-		(at 127.762 81.026 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "4ea9a8f1-d3fa-4fa0-994a-63d001267e61")
-	)
 	(text "Slide SW to ~{NMI} \nat keypad \nenables SST"
 		(exclude_from_sim no)
 		(at 100.838 141.732 90)
@@ -4113,6 +4103,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fe702808-c31e-47fe-a896-aaf2292539e3")
+	)
+	(no_connect
+		(at 119.38 92.71)
+		(uuid "01a41734-e6f4-48d3-898f-486e09153eca")
 	)
 	(no_connect
 		(at 124.46 185.42)
@@ -11770,74 +11764,6 @@
 			(project ""
 				(path "/4ebd6183-7c5f-46b0-b04d-0ff005f0292d"
 					(reference "CST19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CM_power:GND")
-		(at 119.38 92.71 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "df407a4e-4f58-49c1-8060-f477d3fa4593")
-		(property "Reference" "#PWR019"
-			(at 119.38 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 119.38 94.81 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.7 0.7)
-				)
-				(justify top)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cd5e8837-f294-4ac5-8e85-a9b470d30b32")
-		)
-		(instances
-			(project "control-logic-module"
-				(path "/4ebd6183-7c5f-46b0-b04d-0ff005f0292d"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
